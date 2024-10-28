@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="Imagenes/inicio.png"  />
+  <img src="Imagenes/inicio.png" style="border-radius: 50%;" />
 </div>
 
 ## 👉 Sobre mí
