@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="400" src="https://mural.uv.es/salmada/Practica1,2,3/img/logo.png"  />
+  <img src="Imagenes/inicio.png"  />
 </div>
 
 ## 👉 Sobre mí
