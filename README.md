@@ -9,7 +9,7 @@ I'm a recent **Graduate in Multimedia Engineering** and this is my GitHub profil
 ## 🎮 Try out 
 Game developed by a small group of peers, <a href='https://sylmara.itch.io/among-them'> try it now! </a> 
 
-## 📹 Vídeos de mi canal de [Youtube](https://www.youtube.com/channel/UCrSFdvnDI3uNhov7pKaYm4g)
+## 📹 Videos from my [Youtube](https://www.youtube.com/channel/UCrSFdvnDI3uNhov7pKaYm4g)
 <a href='https://youtu.be/RSRx8983tnY' title="Trabajo Fin de Grado - ver en Youtube" target='_blank'>
   <img width='32%'  src='Imagenes/tfg.webp' alt='Trabajo Fin de Grado' />
 </a>
@@ -34,7 +34,7 @@ Game developed by a small group of peers, <a href='https://sylmara.itch.io/among
   <img width='32%' src='Imagenes/banderas.png' alt='Simulación de banderas' />
 </a>
 
-### Conocimientos
+## 💻 Knowledge
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
