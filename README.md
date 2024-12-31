@@ -3,8 +3,11 @@
   <img src="Imagenes/inicio.png" style="border-radius: 50%;" />
 </div>
 
-## 👉 Sobre mí
-Soy una recién **Graduada en Ingeniería Multimedia** y este es mi perfil de GitHub! (aún está en pruebas)
+## 👉 About me
+I'm a recent **Graduate in Multimedia Engineering** and this is my GitHub profile! (still in testing)
+
+## 🎮 Try out 
+Game developed by a small group of peers, <a href='https://sylmara.itch.io/among-them'> try it now! </a> 
 
 ## 📹 Vídeos de mi canal de [Youtube](https://www.youtube.com/channel/UCrSFdvnDI3uNhov7pKaYm4g)
 <a href='https://youtu.be/RSRx8983tnY' title="Trabajo Fin de Grado - ver en Youtube" target='_blank'>
